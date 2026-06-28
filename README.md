@@ -1,7 +1,7 @@
-# Hi, I'm Madhuri 👋
+# 👋 Hi, I'm Madhuri
 
 ## 💻 About Me
-I am a Computer Science student passionate about software development and problem solving. I enjoy building practical web applications and continuously improving my coding skills.
+Computer Science student passionate about software development, problem-solving, and building real-world web applications.
 
 ---
 
@@ -14,8 +14,9 @@ I am a Computer Science student passionate about software development and proble
 ---
 
 ## 📌 Featured Project
-### Expense Tracker Pro
-A web-based expense tracking application that helps users manage and analyze their daily expenses efficiently.
+
+### 💰 Expense Tracker Pro
+A full-stack style frontend application to track, manage, and analyze daily expenses with interactive UI and data persistence.
 
 🔗 Live Demo: https://madhuri0756.github.io/Expense-Tracker-Pro/
 
@@ -24,24 +25,19 @@ A web-based expense tracking application that helps users manage and analyze the
 ## 🏆 Achievements
 - Maintained strong academic performance (CGPA: 9.25)
 - Completed Deloitte Data Analytics Job Simulation
-- Built and deployed multiple web development projects
+- Built and deployed real-world web projects
 
 ---
 
-## 📫 Contact
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Madhuri0756&show_icons=true&theme=default)
+
+---
+
+## 🔥 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhuri0756&layout=compact)
+
+---
+
+## 📫 Connect
 - GitHub: https://github.com/Madhuri0756
-
-<!--
-**Madhuri0756/Madhuri0756** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
