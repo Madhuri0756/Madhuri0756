@@ -55,7 +55,7 @@ A responsive web application to track, manage, and analyze daily expenses with a
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Madhuri0756&show_icons=true&theme=default)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Madhuri0756&show_icons=true&theme=tokyonight&count_private=true)
 
 ---
 
