@@ -53,12 +53,6 @@ A responsive web application to track, manage, and analyze daily expenses with a
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Madhuri0756&show_icons=true&theme=tokyonight)
-
----
-
 ## 🔥 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhuri0756&layout=compact)
